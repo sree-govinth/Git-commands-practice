@@ -1,5 +1,5 @@
 # Git-commands-practice
-Repository used for practice of git commands.
+Practise git commands using this repo!
 
 ### Nice commands to learn:
 1. git init - Initialises git
